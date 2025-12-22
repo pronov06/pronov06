@@ -57,7 +57,6 @@
 - **🤖 Trading Bot** — Python automation for market analysis and strategy execution  
 - **🌍 Travel Companion Web App** — Full-stack trip planner using Google Maps API  
 - **🏦 Banking Horizon Platform** — Modular financial system designed for scalability  
-- **🛒 Auction-Based E-Commerce App** — Real-time bidding platform with secure authentication  
 
 👉 Check out my repositories to explore more!
 
