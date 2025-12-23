@@ -9,8 +9,6 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav69-git&label=Profile%20views&color=0e75b6&style=flat" alt="pranav69-git" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranav69-git" alt="pranav69-git" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
