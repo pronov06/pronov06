@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pronov Mazumdar</h1>
-<h3 align="center">Software Engineering | Big Data Analytics | Problem Solver</h3>
+<h3 align="center"> Machine Learning| Big Data Analytics | Software Engineering</h3>
 
 <p align="center">
   <a href="https://github.com/pranav69-git">GitHub</a> •
