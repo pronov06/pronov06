@@ -26,12 +26,6 @@ Hey! I'm someone who got hooked on data and never looked back. I spend my time b
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pronov06&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 ---
 [![](https://komarev.com/ghpvc/?username=pronov06&icon=2&color=0)](https://visitcount.itsvg.in)
 
