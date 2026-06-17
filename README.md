@@ -132,9 +132,7 @@ const pronov = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=pronov06&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" width="100%"/>
-</a>
+<img src="https://github-trophies.devomb.com/?username=pronov06&theme=radical&no-frame=true&no-bg=false&margin-w=6&row=1" width="100%"/>
 </div>
 
 ---
@@ -148,8 +146,6 @@ const pronov = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pronov06/pronov06/output/pacman-contribution-graph.svg"/>
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/pronov06/pronov06/output/pacman-contribution-graph-dark.svg" width="100%"/>
 </picture>
-
-> ⚠️ **First-time setup:** Go to **Settings → Actions → General → Workflow permissions → Read & write** → Save. Then run the `Generate Pac-Man` workflow manually once from the **Actions** tab. It auto-updates every 12 hours after that!
 
 </div>
 
