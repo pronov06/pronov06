@@ -1,3 +1,37 @@
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>                \||/           </span></span>
+<span class="line"><span>                |  @___oo                            ██╗░░██╗███████╗██╗░░░██╗  ████████╗██╗░░██╗███████╗██████╗░███████╗</span></span>
+<span class="line"><span>      /\  /\   / (__,,,,|                            ██║░░██║██╔════╝╚██╗░██╔╝  ╚══██╔══╝██║░░██║██╔════╝██╔══██╗██╔════╝</span></span>
+<span class="line"><span>     ) /^\) ^\/ _)                                   ███████║█████╗░░░╚████╔╝░  ░░░██║░░░███████║█████╗░░██████╔╝█████╗░░</span></span>
+<span class="line"><span>     )   /^\/   _)                                   ██╔══██║██╔══╝░░░░╚██╔╝░░  ░░░██║░░░██╔══██║██╔══╝░░██╔══██╗██╔══╝░░</span></span>
+<span class="line"><span>     )   _ /  / _)                                   ██║░░██║███████╗░░░██║░░░  ░░░██║░░░██║░░██║███████╗██║░░██║███████╗</span></span>
+<span class="line"><span> /\  )/\/ ||  | )_)                                  ╚═╝░░╚═╝╚══════╝░░░╚═╝░░░  ░░░╚═╝░░░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚══════╝</span></span>
+<span class="line"><span>&lt;  &gt;      |(,,) )__)</span></span>
+<span class="line"><span> ||      /    \)___)\</span></span>
+<span class="line"><span> | \____(      )___) )___</span></span>
+<span class="line"><span>  \______(_______;;; __;;;</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span></span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>                                                                                        _   __,----'~~~~~~~~~`-----.__</span></span>
+<span class="line"><span>                                                                                 .  .    `//====-_             ___,-' `</span></span>
+<span class="line"><span>                                                                 -.            \_|// .   /||\\  `~~~~`---.___./</span></span>
+<span class="line"><span>██╗██╗███╗░░░███╗  ██╗░░██╗░█████╗░██████╗░██╗             ______-==.       _-~o~  \/    |||  \\           _,'`</span></span>
+<span class="line"><span>██║╚█║████╗░████║  ██║░░██║██╔══██╗██╔══██╗██║       __,--'   ,=='||\=_    ;_--~/_-'|-   |`\   \\        ,'</span></span>
+<span class="line"><span>██║░╚╝██╔████╔██║  ███████║███████║██████╔╝██║    _-'        '    |  \\`.   '-'~7  /-   /  ||   `\.     /</span></span>
+<span class="line"><span>██║░░░██║╚██╔╝██║  ██╔══██║██╔══██║██╔══██╗██║ .'    //// ||     |   \\ \_    /  /-   /   ||      \   /</span></span>
+<span class="line"><span>██║░░░██║░╚═╝░██║  ██║░░██║██║░░██║██║░░██║██║ / ____  O-O--=     |     \\.`-_/  /|- _/   ,||       \ /</span></span>
+<span class="line"><span>╚═╝░░░╚═╝░░░░░╚═╝  ╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝,-'     ( ^ _/\_ --_ \     `==-/  `| \'--===-'       _/`</span></span>
+<span class="line"><span>                                                      /\~-\/  \   `-|      /|    )-'\~'      _,--~'</span></span>
+<span class="line"><span>                                                     /|`/ _ \_ \    '-~~\_/ |    |   `\_   ,~             /\</span></span>
+<span class="line"><span>                                                    / | : U_/  /         /  \     \__   \/~               `\__</span></span>
+<span class="line"><span>                                                    \(__:__ \_/      _,-' _/'\ ,-'~____-'`-/                 ``===\</span></span>
+<span class="line"><span>                                                      =@=====       ((-&gt;/'    \|||' `.     ~`-/ ,                _||</span></span>
+<span class="line"><span>                                                     |       |                 \_     ~\      `^---|__i__i__\--~'_/</span></span>
+<span class="line"><span>                                                    /   |   |                 __-^-_    `)  \-.______________,-~'</span></span></code></pre>
+<hr>
+<p>Credits: <a href="https://github.com/hxrii">hxrii</a>
+Last Edited on: 11/01/2023</p> 
+
 <h1 align="center">Hi 👋, I'm Pronov Mazumdar</h1>
 <h3 align="center"> Machine Learning| Big Data Analytics | Software Engineering</h3>
 
