@@ -29,8 +29,6 @@
 <span class="line"><span>                                                     |       |                 \_     ~\      `^---|__i__i__\--~'_/</span></span>
 <span class="line"><span>                                                    /   |   |                 __-^-_    `)  \-.______________,-~'</span></span></code></pre>
 <hr>
-<p>Credits: <a href="https://github.com/hxrii">hxrii</a>
-Last Edited on: 11/01/2023</p> 
 
 <h1 align="center">Hi 👋, I'm Pronov Mazumdar</h1>
 <h3 align="center"> Machine Learning| Big Data Analytics | Software Engineering</h3>
