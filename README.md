@@ -123,7 +123,7 @@ const pronov = {
 
 <div align="center">
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=pronov06&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" width="70%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pronov06&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" width="70%"/>
 </a>
 </div>
 
@@ -133,7 +133,7 @@ const pronov = {
 
 <div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=pronov06&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pronov06&theme=nord&no-frame=true&no-bg=true&margin-w=4" width="100%"/>
 </a>
 </div>
 
