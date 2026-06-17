@@ -116,14 +116,14 @@ const pronov = {
 
 <div align="center">
 <a href="https://github.com/pronov06">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=pronov06&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=pronov06&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pronov06&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 </a>
 </div>
 
 <div align="center">
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pronov06&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" width="70%"/>
+  <img src="https://streak-stats.demolab.com/?user=pronov06&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" width="70%"/>
 </a>
 </div>
 
@@ -133,7 +133,7 @@ const pronov = {
 
 <div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=pronov06&theme=nord&no-frame=true&no-bg=true&margin-w=4" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pronov06&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" width="100%"/>
 </a>
 </div>
 
