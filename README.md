@@ -123,7 +123,7 @@ const pronov = {
 
 <div align="center">
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=pronov06&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" width="70%"/>
+  <img src="https://raw.githubusercontent.com/pronov06/pronov06/output/streak-stats.svg" width="70%"/>
 </a>
 </div>
 
