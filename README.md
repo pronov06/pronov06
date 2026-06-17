@@ -137,7 +137,7 @@ const pronov = {
 
 ---
 
-## 🎮 Pac-Man eats my contributions
+## 🐍 Snake hitting a mukbang on my commits
 
 <div align="center">
 
