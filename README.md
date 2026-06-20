@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=180&section=header&text=Pronov%20Mazumdar&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20Data%20Scientist&descAlignY=60&descSize=17&descColor=8b949e" width="100%"/>
+<img src="header.jpg" width="100%" alt="Pronov Mazumdar Hollywood Sign" style="border-radius: 12px; margin-bottom: 20px;" />
 </div>
 
 <div align="center">
