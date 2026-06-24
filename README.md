@@ -47,6 +47,57 @@ const pronov = {
 
 ---
 
+## 🌐 Featured — 3D Interactive Portfolio
+
+<div align="center">
+
+<a href="https://pronov06.github.io/">
+  <img src="https://raw.githubusercontent.com/pronov06/pronov06.github.io/main/public/images/avatar_sitting.jpg" width="230" alt="3D portfolio character" />
+</a>
+
+### [ ✦ pronov06.github.io ✦ ](https://pronov06.github.io/)
+
+A real-time **3D interactive portfolio** — a rigged character with **physics & post-processing**, and buttery **GSAP** scroll choreography.
+
+[![Live Demo](https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://pronov06.github.io/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pronov06/pronov06.github.io)
+
+`React 18` · `TypeScript` · `Three.js` · `R3F` · `GSAP` · `Rapier`
+
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+<a href="https://spend-wise-gmrs.vercel.app/"><img src="https://raw.githubusercontent.com/pronov06/pronov06.github.io/main/public/images/shot-spendwise.png" alt="SpendWise"/></a>
+<br/><b>SpendWise</b><br/>
+<sub>Full-stack finance tracker with AI insights</sub><br/>
+<sub><code>React</code> <code>Node</code> <code>MongoDB</code></sub><br/>
+<a href="https://spend-wise-gmrs.vercel.app/">Live ↗</a>
+</td>
+<td width="33%" valign="top" align="center">
+<a href="https://huggingface.co/spaces/pronov06/lumen-crm"><img src="https://raw.githubusercontent.com/pronov06/pronov06.github.io/main/public/images/shot-lumen.png" alt="Lumen"/></a>
+<br/><b>Lumen</b><br/>
+<sub>Mini CRM · engagement loop</sub><br/>
+<sub><code>FastAPI</code> <code>React</code> <code>TS</code></sub><br/>
+<a href="https://huggingface.co/spaces/pronov06/lumen-crm">Live ↗</a>
+</td>
+<td width="33%" valign="top" align="center">
+<a href="https://analyzemyresume.streamlit.app/"><img src="https://raw.githubusercontent.com/pronov06/pronov06.github.io/main/public/images/shot-resume.png" alt="Resume ATS Analyzer"/></a>
+<br/><b>Resume ATS Analyzer</b><br/>
+<sub>AI-powered ATS resume scoring</sub><br/>
+<sub><code>Python</code> <code>spaCy</code> <code>Streamlit</code></sub><br/>
+<a href="https://analyzemyresume.streamlit.app/">Live ↗</a>
+</td>
+</tr>
+</table>
+
+---
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Connect With Me
 
 <div align="center">
