@@ -226,7 +226,7 @@ A real-time **3D interactive portfolio** — a rigged character with **physics &
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pronov06&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
-*⭐ If you like my work, consider starring my repositories!*
+*⭐ If you like my work, consider starring my repositories!* 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=130&section=footer" width="100%"/>
 </div>
