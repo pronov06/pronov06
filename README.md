@@ -39,10 +39,10 @@ const pronov = {
 - ⚡ Fun fact: my models train faster than I go to sleep
 
 </td>
-<td width="45%">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif" style="border-radius:12px"/>
-</td>
-</tr>
+    <td>
+      <img src="https://cdn.dribbble.com/userupload/31153076/file/original-8d91ddeaca87dc4ad26f9c98ce4f7be1.gif" alt="GIF" />
+    </td>
+  </tr>
 </table>
 
 ---
