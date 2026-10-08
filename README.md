@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg?v=1" width="100%" alt="Pronov Mazumdar. Student at SRM Institute of Science and Technology, Chennai. Data Analysis, Software Developer, Backend / Full-Stack Developer, AI/ML Project Builder. I build AI systems, data pipelines, and full-stack products that solve real problems — from medical image segmentation to GenAI-powered applications." />
+  <img src="./assets/hero.svg?v=2" width="100%" alt="Pronov Mazumdar. Student at SRM Institute of Science and Technology, Chennai. Data Analysis, Software Developer, Backend / Full-Stack Developer, AI/ML Project Builder. I build AI systems, data pipelines, and full-stack products that solve real problems — from medical image segmentation to GenAI-powered applications." />
 </p>
 
 <p align="center">
